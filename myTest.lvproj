@@ -19,6 +19,7 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="HelloWorld.vi" Type="VI" URL="../HelloWorld.vi"/>
+		<Item Name="SimpleAdd.vi" Type="VI" URL="../SimpleAdd.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
